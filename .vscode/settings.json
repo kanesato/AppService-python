@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d8df623a-79c2-47ca-8542-9fdc6d9942e2/resourceGroups/Bicep-fundermental-resourcegroup/providers/Microsoft.Web/sites/poc-appservice-python-01",
+    "appService.deploySubpath": "msdocs-python-django-webapp-quickstart"
+}
